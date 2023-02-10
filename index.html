@@ -1,42 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
+  <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="logo.png">
-    <title>Toolbox</title>
-</head>
-<body>
-    <h1>Toolbox</h1>
-    <table border=4>
-      <tr>
-        <th><a href="useful/"><h3>Useful</h3></a></th>
-      </tr>
-        <tr>
-            <td><a href="useful/apps">➥ Apps</a></td>
-        </tr>
-        <tr>
-            <td><a href="useful/apps">➥ Websites</a></td>
-        </tr>
-        <tr>
-            <td><a href="useful/apps">➥ Chrome-Extensions</a></td>
-        </tr>
-    </table>
-    <p></p>
-    <table border=4>
-      <tr>
-        <th><a href="fun/"><h3>Fun</h3></a></th>
-      </tr>
-        <tr>
-            <td><a href="fun/games">➥ Games</a></td>
-        </tr>
-        <tr>
-            <td><a href="fun/apps">➥ Websites</a></td>
-        </tr>
-        <tr>
-            <td><a href="useful/apps">➥ Chrome-Extensions</a></td>
-        </tr>
-    </table>
-</body>
+    <title>Multiple Apps Website</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="app">
+        <div class="app-icon"></div>
+        <div class="app-header">
+          <p>App 1</p>
+        </div>
+        <div class="app-body">
+            <ul class="list">
+                <li class="item">
+                  <i class="fas fa-check"></i>
+                  <p class="text">Item 1</p>
+                </li>
+                <li class="item">
+                  <i class="fas fa-times"></i>
+                  <p class="text">Item 2</p>
+                </li>
+                <li class="item">
+                  <i class="fas fa-star"></i>
+                  <p class="text">Item 3</p>
+                </li>
+              </ul>
+        </div>
+      </div>
+      <div class="app">
+        <div class="app-icon"></div>
+        <div class="app-header-red">
+          <p>App 2</p>
+        </div>
+        <div class="app-body">
+          <!-- Content for App 2 goes here -->
+        </div>
+      </div>
+      <!-- Add more apps here if desired -->
+    </div>
+    <script src="app.js"></script>
+  </body>
 </html>
