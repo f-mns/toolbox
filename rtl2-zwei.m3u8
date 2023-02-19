@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:977
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:14
+#EXTINF:5.920000,
+https://data.fernsehzone.com/stream123.php/rtl2d__/hls/rtl2/4ImPU1UmvY/2/38da301174d652bb890cbf673c3e2154/2_977.ts
+#EXTINF:12.640000,
+https://data.fernsehzone.com/stream123.php/rtl2d__/hls/rtl2/4ImPU1UmvY/2/25e9fdf54d725510afcee6aa55a60822/2_978.ts
+#EXTINF:8.400000,
+https://data.fernsehzone.com/stream123.php/rtl2d__/hls/rtl2/4ImPU1UmvY/2/2c67087f0da60dfde763a13e7cf29e6b/2_979.ts
+#EXTINF:10.760000,
+https://data.fernsehzone.com/stream123.php/rtl2d__/hls/rtl2/4ImPU1UmvY/2/202c3728e130f383c5cded9c872e0939/2_980.ts
+#EXTINF:13.840000,
+https://data.fernsehzone.com/stream123.php/rtl2d__/hls/rtl2/4ImPU1UmvY/2/e602d10f2b9bf4a038ca15be8a800747/2_981.ts
+#EXTINF:4.160000,
+https://data.fernsehzone.com/stream123.php/rtl2d__/hls/rtl2/4ImPU1UmvY/2/cff75e3db04a13d51cdec9c15662d97e/2_982.ts
