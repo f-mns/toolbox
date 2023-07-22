@@ -1,13 +1,592 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:7
-#EXT-X-MEDIA-SEQUENCE:279479948
-#EXT-X-VERSION:3
-#EXTINF:6.000,
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:53:34.181Z
-1-279479948.ts
-#EXTINF:6.000,
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:53:40.180Z
-1-279479949.ts
-#EXTINF:6.000,
-#EXT-X-PROGRAM-DATE-TIME:2023-02-20T07:53:46.181Z
-1-279479950.ts
+#EXTINF:-1,Spt-VIP| DE: Dazn 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116081
+#EXTINF:-1,Spt-VIP| DE: Dazn 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116082
+#EXTINF:-1,Spt-VIP| DE: Eurosport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116072
+#EXTINF:-1,Spt-VIP| DE: Eurosport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116073
+#EXTINF:-1,Spt-VIP| DE: Sky Sport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116075
+#EXTINF:-1,Spt-VIP| DE: Sky Sport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116076
+#EXTINF:-1,Spt-VIP| DE: Sky Sport Bundesliga 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116077
+#EXTINF:-1,Spt-VIP| DE: Sky Sport Bundesliga 2 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/116078
+#EXTINF:-1,Spt-VIP| DE: Sky Sport News HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/116079
+#EXTINF:-1,De: Das Erste HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27627
+#EXTINF:-1,De: Das Erste HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393085
+#EXTINF:-1,De: Arte HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27641
+#EXTINF:-1,De: Arte HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393097
+#EXTINF:-1,De: 3 Sat HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71183
+#EXTINF:-1,De: 3 Sat HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/63108
+#EXTINF:-1,De: ZDF HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27634
+#EXTINF:-1,De: ZDF 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63109
+#EXTINF:-1,De: ARD Alpha HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/151111
+#EXTINF:-1,De: ARD Alpha HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393103
+#EXTINF:-1,De: ZDF Neo HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27632
+#EXTINF:-1,De: ZDF Neo 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63110
+#EXTINF:-1,De: RTL HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27637
+#EXTINF:-1,De: RTL 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63056
+#EXTINF:-1,De: RTL HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393086
+#EXTINF:-1,De: RTL Zwei HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27638
+#EXTINF:-1,De: RTL Zwei HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/63057
+#EXTINF:-1,De: RTL Crime HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27653
+#EXTINF:-1,De: RTL Passion HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27650
+#EXTINF:-1,De: RTL Passion 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/383768
+#EXTINF:-1,De: RTL Passion HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393089
+#EXTINF:-1,De: RTL UP HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27636
+#EXTINF:-1,De: RTL UP HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393088
+#EXTINF:-1,De: Sixx HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/36676
+#EXTINF:-1,De: Sixx 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63050
+#EXTINF:-1,De: Pro7 Maxx HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27645
+#EXTINF:-1,De: Pro7 Maxx 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63046
+#EXTINF:-1,De: Sat 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27619
+#EXTINF:-1,De: Sat 1 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63049
+#EXTINF:-1,De: Sat 1 HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/383758
+#EXTINF:-1,De: Sat 1 Gold HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27647
+#EXTINF:-1,De: Sat 1 Gold 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63053
+#EXTINF:-1,De: Sat 1 Emotions HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393092
+#EXTINF:-1,De: Vox HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27642
+#EXTINF:-1,De: VOX 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63055
+#EXTINF:-1,De: Phoenix HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27600
+#EXTINF:-1,De: Kabel 1 [KABEL EINS] HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27640
+#EXTINF:-1,De: Kabel 1 [KABEL EINS] 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63045
+#EXTINF:-1,De: Kabel 1 [KABEL EINS] HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393096
+#EXTINF:-1,De: Tele 5 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27615
+#EXTINF:-1,De: Tele 5 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95717
+#EXTINF:-1,De: Anixe HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27618
+#EXTINF:-1,De: Anixe HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393106
+#EXTINF:-1,De: DMax HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27611
+#EXTINF:-1,De: DMax 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95716
+#EXTINF:-1,De: 123TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/294933
+#EXTINF:-1,De: HSE24
+http://new-pro.tv:8080/99622282/etbVXafU6f/95516
+#EXTINF:-1,De: Juwelo
+http://new-pro.tv:8080/99622282/etbVXafU6f/294959
+#EXTINF:-1,DE: MDR HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/383774
+#EXTINF:-1,De: NDR HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62251
+#EXTINF:-1,De: Nitro HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62248
+#EXTINF:-1,De: Nitro 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66067
+#EXTINF:-1,De: Nitro HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393100
+#EXTINF:-1,De: Pearl TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/294958
+#EXTINF:-1,De: QVC HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/294935
+#EXTINF:-1,De: Servus TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62258
+#EXTINF:-1,De: Rbb HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/28887
+#EXTINF:-1,De: Sonnenklar TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/294929
+#EXTINF:-1,De: SWR HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62256
+#EXTINF:-1,De: WDR HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/21470
+#EXTINF:-1,De: SYFY HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27656
+#EXTINF:-1,De: SYFY 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/110340
+#EXTINF:-1,De: 13th Street HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27660
+#EXTINF:-1,De: 13th Street 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95710
+#EXTINF:-1,De: Heimat Kanal TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/27616
+#EXTINF:-1,De: Heimat Kanal TV +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393120
+#EXTINF:-1,De: Kinowelt TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/27655
+#EXTINF:-1,De: Kinowelt TV +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393119
+#EXTINF:-1,De: Romance TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/27620
+#EXTINF:-1,De: Romance TV +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393118
+#EXTINF:-1,De: Nat Geo HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27606
+#EXTINF:-1,De: Nat Geo 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95708
+#EXTINF:-1,De: Nat Geo Wild HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27607
+#EXTINF:-1,De: Nat Geo Wild 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95707
+#EXTINF:-1,De: ZDF Info HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27633
+#EXTINF:-1,De: ZDF Info HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/383757
+#EXTINF:-1,De: History HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27610
+#EXTINF:-1,De: History 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/110342
+#EXTINF:-1,De: History HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393121
+#EXTINF:-1,De: Discovery Channel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27612
+#EXTINF:-1,De: Discovery Channel 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95706
+#EXTINF:-1,De: Kabel 1 Doku HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27609
+#EXTINF:-1,De: Kabel 1 Doku 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63048
+#EXTINF:-1,De: Animal Planet HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27613
+#EXTINF:-1,De: Animal Planet HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393124
+#EXTINF:-1,De: TLC HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27604
+#EXTINF:-1,De: TLC HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393123
+#EXTINF:-1,De: RTL Living HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393090
+#EXTINF:-1,De: RTL Living 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/27651
+#EXTINF:-1,De: Spiegel Geschichte HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/66082
+#EXTINF:-1,De: Spiegel Geschichte HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393122
+#EXTINF:-1,De: Spiegel TV Wissen HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27605
+#EXTINF:-1,De: N24 DoKu HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62253
+#EXTINF:-1,De: Bon Gusto HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393125
+#EXTINF:-1,De: Crime & Investigation HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/69565
+#EXTINF:-1,De: Sky Documentairs HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393113
+#EXTINF:-1,De: Sky Nature HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393114
+#EXTINF:-1,De: Sky Showcase HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393112
+#EXTINF:-1,De: GEO TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393126
+#EXTINF:-1,De: NTV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27601
+#EXTINF:-1,De: NTV 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66068
+#EXTINF:-1,De: E! Entertainment HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27599
+#EXTINF:-1,De: E! Entertainment 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/110341
+#EXTINF:-1,De: Prosieben Fun HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393102
+#EXTINF:-1,De: Oberpfalz Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/21478
+#EXTINF:-1,De: DW HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/383778
+#EXTINF:-1,De: Bild HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393095
+#EXTINF:-1,De: Super RTL HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27629
+#EXTINF:-1,De: Super RTL 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63054
+#EXTINF:-1,De: Kika HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/63111
+#EXTINF:-1,De: Kika HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393132
+#EXTINF:-1,De: Cartoon Network HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27624
+#EXTINF:-1,De: Disney Channel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27593
+#EXTINF:-1,De: Disney Channel HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393128
+#EXTINF:-1,De: Boomerang HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27625
+#EXTINF:-1,De: NickToons HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/66078
+#EXTINF:-1,De: Nick + HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62250
+#EXTINF:-1,De: Nick JR
+http://new-pro.tv:8080/99622282/etbVXafU6f/294965
+#EXTINF:-1,De: Nick JR +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393129
+#EXTINF:-1,De: Junior HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71177
+#EXTINF:-1,De: Comedy Central HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62260
+#EXTINF:-1,De: Comedy Central 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66073
+#EXTINF:-1,De: ProSieben HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71176
+#EXTINF:-1,De: ProSieben 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/63047
+#EXTINF:-1,DE: VOXUP
+http://new-pro.tv:8080/99622282/etbVXafU6f/294931
+#EXTINF:-1,De: VOXUP +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393101
+#EXTINF:-1,De: Kabel Eins Classics HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62249
+#EXTINF:-1,De: Kabel Eins Classics HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393104
+#EXTINF:-1,De: EuroNews HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62252
+#EXTINF:-1,De: Tagesschau24 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27586
+#EXTINF:-1,De: Tagesschau24 HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/383779
+#EXTINF:-1,De: One HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27667
+#EXTINF:-1,De: Welt HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27603
+#EXTINF:-1,De: Welt 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66069
+#EXTINF:-1,De: Welt Der Wunder TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/383860
+#EXTINF:-1,De: Sony AXN HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27658
+#EXTINF:-1,De: Universal Channel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27657
+#EXTINF:-1,De: Universal TV 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66063
+#EXTINF:-1,De: Hr Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/21466
+#EXTINF:-1,De: Puls 8 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27654
+#EXTINF:-1,De: BR HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/62255
+#EXTINF:-1,De: Mainfranken Wurzburg TV HD DE
+http://new-pro.tv:8080/99622282/etbVXafU6f/294956
+#EXTINF:-1,De: Bergblick
+http://new-pro.tv:8080/99622282/etbVXafU6f/294957
+#EXTINF:-1,De: Munchen TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/294953
+#EXTINF:-1,De: Channel 21
+http://new-pro.tv:8080/99622282/etbVXafU6f/294954
+#EXTINF:-1,De: Douna Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/21468
+#EXTINF:-1,De: Folx
+http://new-pro.tv:8080/99622282/etbVXafU6f/294955
+#EXTINF:-1,DE: Silverline
+http://new-pro.tv:8080/99622282/etbVXafU6f/294932
+#EXTINF:-1,De: Waidwerk
+http://new-pro.tv:8080/99622282/etbVXafU6f/294960
+#EXTINF:-1,De: Baden Tv
+http://new-pro.tv:8080/99622282/etbVXafU6f/21471
+#EXTINF:-1,DE: BIBEL TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/294928
+#EXTINF:-1,DE: A&E HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/383770
+#EXTINF:-1,De: K-TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/383773
+#EXTINF:-1,De: RFO
+http://new-pro.tv:8080/99622282/etbVXafU6f/294952
+#EXTINF:-1,De: SCHAU TV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/294934
+#EXTINF:-1,De: HGTV
+http://new-pro.tv:8080/99622282/etbVXafU6f/294950
+#EXTINF:-1,De: HGTV +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393127
+#EXTINF:-1,De: JukeBox HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27597
+#EXTINF:-1,De: JukeBox HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393145
+#EXTINF:-1,De: Deluxe Music HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27591
+#EXTINF:-1,De: Deluxe Music HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393146
+#EXTINF:-1,De: MTV HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393144
+#EXTINF:-1,De: Classica
+http://new-pro.tv:8080/99622282/etbVXafU6f/27617
+#EXTINF:-1,De: Stingray Classica HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393164
+#EXTINF:-1,De: Fix&Foxi
+http://new-pro.tv:8080/99622282/etbVXafU6f/383864
+#EXTINF:-1,De: Toggo Plus TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/27628
+#EXTINF:-1,De: Warner Film HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27662
+#EXTINF:-1,De: Warner Film 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95712
+#EXTINF:-1,De: Warner Film HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393116
+#EXTINF:-1,De: Warner Series HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27661
+#EXTINF:-1,De: Warner Series 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66077
+#EXTINF:-1,De: Warner Series HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393115
+#EXTINF:-1,De: Warner Comedy HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27663
+#EXTINF:-1,De: Warner Comedy 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95721
+#EXTINF:-1,De: Sky Replay HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27598
+#EXTINF:-1,DE: Sky Replay HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/383780
+#EXTINF:-1,De: Sky Atlantic HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27668
+#EXTINF:-1,De: Sky Atlantic 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95709
+#EXTINF:-1,De: Sky Cinema Action HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71181
+#EXTINF:-1,De: Sky Cinema Action 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66076
+#EXTINF:-1,De: Sky Cinema Fun HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27666
+#EXTINF:-1,De: Sky Cinema Fun HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393109
+#EXTINF:-1,De: Sky Cinema Family HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27671
+#EXTINF:-1,De: Sky Cinema Family 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66072
+#EXTINF:-1,De: Sky Cinema Best Of HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/66079
+#EXTINF:-1,De: Sky Cinema best Of 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95720
+#EXTINF:-1,De: Sky Cinema Special HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/66081
+#EXTINF:-1,De: Sky Cinema Special 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95711
+#EXTINF:-1,De: Sky Cinema Premiere HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71182
+#EXTINF:-1,De: Sky Cinema Premiere 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66062
+#EXTINF:-1,De: Sky Cinema Premiere +24 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/71178
+#EXTINF:-1,De: Sky Cinema Premiere +24 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95723
+#EXTINF:-1,De: Sky Cinema Thriller 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95713
+#EXTINF:-1,De: Sky Cinema Thriller HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393107
+#EXTINF:-1,De: Sky Krimi HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27665
+#EXTINF:-1,De: Sky Krimi 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95714
+#EXTINF:-1,De: Sky Crime HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/294943
+#EXTINF:-1,De: Sky Crime HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393110
+#EXTINF:-1,De: SKY COMEDY HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/294944
+#EXTINF:-1,De: Sky Comedy HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393111
+#EXTINF:-1,De: Sky ONE
+http://new-pro.tv:8080/99622282/etbVXafU6f/160871
+#EXTINF:-1,De: Sky 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/383862
+#EXTINF:-1,De: Sky Cinema
+http://new-pro.tv:8080/99622282/etbVXafU6f/27672
+#EXTINF:-1,De: Sky Select 32 Hits
+http://new-pro.tv:8080/99622282/etbVXafU6f/27670
+#EXTINF:-1,De: Sky Cinema Classic HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/66080
+#EXTINF:-1,De: Sky Cinema Classic HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393108
+#EXTINF:-1,De: Sony Channel HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393117
+#EXTINF:-1,De: Hyper Cinema Info HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95592
+#EXTINF:-1,De: Hyper Cinema Boxset HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95593
+#EXTINF:-1,De: Hyper Cinema 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95594
+#EXTINF:-1,De: Hyper Cinema 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95599
+#EXTINF:-1,De: Sky Select 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27728
+#EXTINF:-1,De: Sky Select 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27727
+#EXTINF:-1,De: Sky Select 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27726
+#EXTINF:-1,De: Sky Select 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95579
+#EXTINF:-1,De: Sky Select 5 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95580
+#EXTINF:-1,De: Sky Select 6 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27723
+#EXTINF:-1,De: Sky Select 7 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/27722
+#EXTINF:-1,De: Sky Select 8 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95581
+#EXTINF:-1,De: Sky PopCorn 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95586
+#EXTINF:-1,De: Sky PopCorn 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95588
+#EXTINF:-1,De: Sky PopCorn 4 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/95589
+#EXTINF:-1,De: Sky Sport News HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33379
+#EXTINF:-1,De: Sky Sport News 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95719
+#EXTINF:-1,De: Sky Sport News HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393133
+#EXTINF:-1,De: Dazn 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33382
+#EXTINF:-1,De: Dazn 1 HD+
+http://new-pro.tv:8080/99622282/etbVXafU6f/383793
+#EXTINF:-1,De: Dazn 1 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66075
+#EXTINF:-1,De: Dazn 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33383
+#EXTINF:-1,De: Dazn 2 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66074
+#EXTINF:-1,De: EuroSport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33380
+#EXTINF:-1,De: EuroSport 1 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66066
+#EXTINF:-1,De: EuroSport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33381
+#EXTINF:-1,De: EuroSport 2 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/95722
+#EXTINF:-1,De: Auto Motor Sport HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/69568
+#EXTINF:-1,De: Auto Motor Sport HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393141
+#EXTINF:-1,De: Sky Sport F1
+http://new-pro.tv:8080/99622282/etbVXafU6f/126307
+#EXTINF:-1,De: Sky Sport F1 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393134
+#EXTINF:-1,De: Motorvision TV
+http://new-pro.tv:8080/99622282/etbVXafU6f/234065
+#EXTINF:-1,De: Motorvision TV +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393140
+#EXTINF:-1,De: Fussball 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/392679
+#EXTINF:-1,De: Fussball 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/392680
+#EXTINF:-1,De: Fussball 3 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/392681
+#EXTINF:-1,De: eSports HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/383863
+#EXTINF:-1,De: Edge Sport HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393143
+#EXTINF:-1,De: Sport Digital Fussball HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/294945
+#EXTINF:-1,De: Sport Digital Fussball HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393139
+#EXTINF:-1,De: Sky Sport Premier League FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/362923
+#EXTINF:-1,De: Sky Sport Premier League HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393135
+#EXTINF:-1,De: Sky Sport Top Event FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/362924
+#EXTINF:-1,De: Sky Sport Top Event HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393136
+#EXTINF:-1,De: Sky Sport Golf FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/362926
+#EXTINF:-1,De: Sky Sport Tennis FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/362927
+#EXTINF:-1,De: Sky Sport Tennis HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393138
+#EXTINF:-1,De: Sky Sport Mix FHD
+http://new-pro.tv:8080/99622282/etbVXafU6f/362925
+#EXTINF:-1,De: Sky Sport Mix HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393137
+#EXTINF:-1,De: Sky Sport Bundesliga HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/393147
+#EXTINF:-1,De: Sky Sport Bundesliga 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33359
+#EXTINF:-1,De: Sky Sport Bundesliga 1 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/74786
+#EXTINF:-1,De: Sky Sport Bundesliga 2 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33360
+#EXTINF:-1,De: Sky Sport Bundesliga 3 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33361
+#EXTINF:-1,De: Sky Sport Bundesliga 4 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33362
+#EXTINF:-1,De: Sky Sport Bundesliga 5 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33363
+#EXTINF:-1,De: Sky Sport Bundesliga 6 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/393148
+#EXTINF:-1,De: Sky Sport Bundesliga 7 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/393149
+#EXTINF:-1,De: Sky Sport Bundesliga 8 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/393150
+#EXTINF:-1,De: Sky Sport Bundesliga 9 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/393151
+#EXTINF:-1,De: Sky Sport Bundesliga 10 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/393152
+#EXTINF:-1,De: Sky Sport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33368
+#EXTINF:-1,De: Sky Sport 1 4K
+http://new-pro.tv:8080/99622282/etbVXafU6f/66070
+#EXTINF:-1,De: Sport 1 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/382479
+#EXTINF:-1,De: Sky Sport 2 HD
+http://new-pro.tv:8080/99622282/etbVXafU6f/33369
+#EXTINF:-1,De: Sky Sport 2 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393154
+#EXTINF:-1,De: Sky Sport 3 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33370
+#EXTINF:-1,De: Sky Sport 3 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393155
+#EXTINF:-1,De: Sky Sport 4 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33371
+#EXTINF:-1,De: Sky Sport 4 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393156
+#EXTINF:-1,De: Sky Sport 5 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33372
+#EXTINF:-1,De: Sky Sport 5 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393157
+#EXTINF:-1,De: Sky Sport 6 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33373
+#EXTINF:-1,De: Sky Sport 6 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393158
+#EXTINF:-1,De: Sky Sport 7 HD [ Match Time ]
+http://new-pro.tv:8080/99622282/etbVXafU6f/33374
+#EXTINF:-1,De: Sky Sport 7 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393159
+#EXTINF:-1,De: Sky Sport 8 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393160
+#EXTINF:-1,De: Sky Sport 9 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393161
+#EXTINF:-1,De: Sky Sport 10 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393162
+#EXTINF:-1,De: Sky Sport 11 HD +
+http://new-pro.tv:8080/99622282/etbVXafU6f/393163
